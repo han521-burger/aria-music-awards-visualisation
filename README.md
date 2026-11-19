@@ -52,12 +52,6 @@ python3 -m http.server 8000
 
 then visit http://localhost:8000 (or use VS Code's Live Server).
 
-## Publish on GitHub Pages
-
-1. Create a public repository and push these files to the `main` branch.
-2. Settings → Pages → Source: *Deploy from a branch*, Branch: `main`, folder `/ (root)`.
-3. The page appears at <https://hamburgerisgood.github.io/FIT3179A2/> within a minute or two.
-
 ## Licence
 
 Text and charts: CC BY-SA 4.0. Data remains under the licences of its sources.
