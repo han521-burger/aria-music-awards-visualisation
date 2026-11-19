@@ -2,7 +2,7 @@
 
 Where Australia's ARIA Award winners come from. A data visualisation story for **FIT3179 Data Visualisation 2** (Monash University, Clayton), by **Lee Wei Han**, 12 October 2026.
 
-Live page: <https://hamburgerisgood.github.io/FIT3179A2/>
+Live page: <https://han521-burger.github.io/aria-music-awards-visualisation/>
 
 ## What's here
 
